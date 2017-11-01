@@ -80,9 +80,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'logbook',
-        'USER': 'root',
-        'PASSWORD': 'ucl393939',
-        'HOST': '127.0.0.1',
+        'USER': 'ucl39@team39',
+        'PASSWORD': 'Team39ucl',
+        'HOST': 'team39.mysql.database.azure.com',
         'PORT': '3306',
     }
 }
